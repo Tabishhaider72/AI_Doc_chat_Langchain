@@ -1,0 +1,13 @@
+fastapi               # FastAPI framework for building the API
+uvicorn               # ASGI server to run the FastAPI app
+pydantic              # Pydantic for data validation (schemas)
+python-dotenv         # For reading environment variables from .env
+PyPDF2                # For extracting text from PDFs
+langchain             # LangChain for document processing and QA
+llama_index           # LlamaIndex for document indexing
+faiss-cpu             # FAISS for efficient similarity search
+google-generativeai   # Google Gemini API integration
+chromadb              # ChromaDB for storing vector embeddings (optional if you need it)
+streamlit             # For testing frontend locally (if needed)
+requests              # To make HTTP requests (if needed for other API calls)
+pytest                # For testing
