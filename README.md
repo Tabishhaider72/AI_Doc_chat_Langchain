@@ -7,6 +7,10 @@ This project enables users to upload PDF files and ask questions about their con
 
 The application allows users to upload a PDF, preview it, and interact with an AI-powered chatbot that answers questions based on the content of the uploaded PDF. The chatbot leverages **LangChain** for handling the natural language processing tasks.
 
+### Live Walkthrough
+This Loom video explains the architecture, UI flow, and backend integration:  
+👉 https://www.loom.com/share/ad74407808ae4eefaad0b5f026317df3
+
 ## Technologies Used
 
 ### Backend
